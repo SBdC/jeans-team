@@ -3,6 +3,10 @@ node_modules
 test/results
 test/coverage
 
+#material
+raw-material
+
+
 ## OS X
 .DS_Store
 ._*
